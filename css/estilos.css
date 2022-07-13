@@ -1,6 +1,6 @@
 :root {
 	--rojo: #53e70e;
-	--fondo: rgb(5,9,50);
+	--fondo: url(../img/bg1.jpg);
 }
 
 * {
